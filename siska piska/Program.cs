@@ -6,7 +6,6 @@ namespace siska_piska
     {
         static void Main(string[] args)
         {
-            pizsa fdkhitdhio spice
-        }
+            pizsa fdkhitdhio spice magomed
     }
 }
